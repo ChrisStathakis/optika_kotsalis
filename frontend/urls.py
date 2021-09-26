@@ -2,7 +2,7 @@ from django.conf.urls import url
 from django.urls import path ,re_path
 from django.contrib.auth import views as auth_views
 from django.contrib.sitemaps.views import sitemap
-from django.views.generic.base import  RedirectView
+from django.views.generic.base import RedirectView
 
 from .views import HomepageView, BrandListView, CategoryView, ProductView, OfferView, SearchView, BrandDetailView, demo_only_view_restart_session, newsletter_form_view, NewProductsListView
 from .user_views import UserDashboardView, login_view, register_view, account_activation_sent, activate, update_profile_view, change_password_view, UserProfileOrderListView, add_product_to_wishlist_view, WishlistListView, fast_login_view, remove_from_wishlist_view,  user_personal_data_view, delete_user_view, pdf_user_data_view
