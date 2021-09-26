@@ -22,7 +22,7 @@ from django.contrib.auth import get_user_model
 User = get_user_model()
 
 import io
-from reportlab.pdfgen import canvas
+# from reportlab.pdfgen import canvas
 from django.http import FileResponse
 
 SITE_EMAIL = settings.SITE_EMAIL
@@ -239,6 +239,8 @@ def user_personal_data_view(request):
 
 @login_required
 def pdf_user_data_view(request):
+    pass
+
     user = request.user
     profile = Profile.objects.get(user=user)
     buffer = io.BytesIO()
@@ -252,6 +254,7 @@ def pdf_user_data_view(request):
     p.save()
     buffer.seek(0)
     return FileResponse(buffer, as_attachment=True, filename='personal_data.pdf')
+
 
 
 @login_required()

@@ -34,11 +34,11 @@ if PRODUCTION:
 # Application definition
 
 INSTALLED_APPS = [
-
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
+    'whitenoise.runserver_nostatic',
     'django.contrib.staticfiles',
     'django.contrib.sitemaps',
     'django.contrib.postgres',
@@ -67,6 +67,7 @@ INSTALLED_APPS = [
     'mptt',
     'import_export',
     'paypal.standard.ipn',
+    'storages',
     # 'django_celery_beat',
     # 'django_celery_results',
 
@@ -74,6 +75,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -186,7 +188,7 @@ if REAl_DB:
     AWS_S3_OBJECT_PARAMETERS = {
         'CacheControl': 'max-age=86400',
     }
-    from storages.backends.s3boto import S3BotoStorage
+
     DEFAULT_FILE_STORAGE = 'custom_storages.MediaStorage'
 
  # custom settings
@@ -224,6 +226,8 @@ SENDGRID_API_KEY = config('SENDGRID_API_KEY')
 SENDGRID_SANDBOX_MODE_IN_DEBUG = False
 SENDGRID_ECHO_TO_STDOUT = True
 SITE_EMAIL = 'kots_d@hotmail.com' if PRODUCTION else 'christosstath10@gmail.com'
+
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 
 TINYMCE_DEFAULT_CONFIGdfgfg = {

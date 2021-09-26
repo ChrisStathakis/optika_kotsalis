@@ -4,7 +4,7 @@ from django_tables2 import RequestConfig
 import xlwt
 import datetime
 
-from django.forms.forms import pretty_name
+from django.forms.utils import pretty_name
 from django.core.exceptions import ObjectDoesNotExist
 
 
