@@ -255,3 +255,5 @@ TINYMCE_DEFAULT_CONFIGdfgfg = {
 
 PAYPAL_RECEIVER_EMAIL = 'kots_d@hotmail.com' if PRODUCTION else ''
 PAYPAL_TEST = False if PRODUCTION else True
+
+ADMINS = [('John', 'christosstath10@gmail.com'), ]
