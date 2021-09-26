@@ -2,8 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151d444e-aa2b-43a7-9777-bbacc137b469" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/frontend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optika_kotsalis/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/optika_kotsalis/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/home-banner/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/images/landing-page/demo/73.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/static/dashboard/assets/pages/menu-search/css/component.css" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/static/dashboard/assets/pages/menu-search/css/component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/static/dashboard/assets/pages/sticky/css/jquery.postitall.css" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/static/dashboard/assets/pages/sticky/css/jquery.postitall.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/static/dashboard/bower_components/jstree/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/static/dashboard/bower_components/jstree/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/static/frontend/assets/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/static/frontend/assets/css/data-table.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/css/data-table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/static/frontend/assets/css/datatables.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/css/datatables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/static/frontend/assets/css/dropzone.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/css/dropzone.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/static/frontend/assets/css/rating.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/static/frontend/assets/css/rating.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/dashboard/assets/pages/menu-search/css/component.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/dashboard/assets/pages/menu-search/css/component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/dashboard/assets/pages/sticky/css/jquery.postitall.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/dashboard/assets/pages/sticky/css/jquery.postitall.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/dashboard/bower_components/jstree/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/dashboard/bower_components/jstree/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frontend/assets/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frontend/assets/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frontend/assets/css/data-table.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frontend/assets/css/data-table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frontend/assets/css/datatables.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frontend/assets/css/datatables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frontend/assets/css/dropzone.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frontend/assets/css/dropzone.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,47 +116,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/optika_kotsalis/settings.py">
+      <file leaf-file-name="data-table.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/static/frontend/assets/css/data-table.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="186">
+              <caret line="390" column="47" selection-start-line="390" selection-start-column="43" selection-end-line="390" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/views.py">
+      <file leaf-file-name="datatables.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/static/frontend/assets/css/datatables.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="267" lean-forward="true" selection-start-line="267" selection-end-line="267" />
+            <state relative-caret-position="177">
+              <caret column="11801" selection-start-column="11801" selection-end-column="11801" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/urls.py">
+      <file leaf-file-name="dropzone.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/static/frontend/assets/css/dropzone.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret column="3905" selection-start-column="3905" selection-end-column="3905" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rating.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/static/frontend/assets/css/rating.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/templates/frontend/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/templates/frontend/include/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+              <caret column="877" selection-start-column="877" selection-end-column="877" />
             </state>
           </provider>
         </entry>
@@ -93,6 +183,16 @@
       <find>stora</find>
       <find>pillo</find>
       <find>admin</find>
+      <find>static</find>
+      <find>cons-white-2x.png</find>
+      <find>agnifier.svg</find>
+      <find>32px.png</find>
+      <find>throbber.gif</find>
+      <find>40px.png</find>
+      <find>3.png</find>
+      <find>.png</find>
+      <find>sort_desc.png</find>
+      <find>dropzone-spritemap</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,14 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/blog/tables.py" />
-        <option value="$PROJECT_DIR$/catalogue/forms.py" />
-        <option value="$PROJECT_DIR$/dashboard/templates/dashboard/form.html" />
-        <option value="$PROJECT_DIR$/optika_kotsalis/urls.py" />
-        <option value="$PROJECT_DIR$/blog/forms.py" />
-        <option value="$PROJECT_DIR$/dashboard/templates/include/navbar.html" />
-        <option value="$PROJECT_DIR$/dashboard/templates/dashboard/ajax_calls/product_presentation_container.html" />
-        <option value="$PROJECT_DIR$/dashboard/templates/dashboard/product_presentation.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/blogDetail.html" />
         <option value="$PROJECT_DIR$/blog/dashboard_urls.py" />
         <option value="$PROJECT_DIR$/blog/models.py" />
@@ -152,6 +244,14 @@
         <option value="$PROJECT_DIR$/frontend/views.py" />
         <option value="$PROJECT_DIR$/frontend/urls.py" />
         <option value="$PROJECT_DIR$/optika_kotsalis/settings.py" />
+        <option value="$PROJECT_DIR$/dashboard/static/dashboard/assets/pages/menu-search/css/component.css" />
+        <option value="$PROJECT_DIR$/dashboard/static/dashboard/assets/pages/sticky/css/jquery.postitall.css" />
+        <option value="$PROJECT_DIR$/dashboard/static/dashboard/bower_components/jstree/css/style.min.css" />
+        <option value="$PROJECT_DIR$/frontend/static/frontend/assets/css/admin.css" />
+        <option value="$PROJECT_DIR$/frontend/static/frontend/assets/css/data-table.css" />
+        <option value="$PROJECT_DIR$/frontend/static/frontend/assets/css/datatables.css" />
+        <option value="$PROJECT_DIR$/frontend/static/frontend/assets/css/dropzone.css" />
+        <option value="$PROJECT_DIR$/frontend/static/frontend/assets/css/rating.css" />
       </list>
     </option>
   </component>
@@ -177,6 +277,9 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -197,6 +300,45 @@
             <path>
               <item name="optika_kotsalis" type="b2602c69:ProjectViewProjectNode" />
               <item name="optika_kotsalis" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="optika_kotsalis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="optika_kotsalis" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="optika_kotsalis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="optika_kotsalis" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="optika_kotsalis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="optika_kotsalis" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="optika_kotsalis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="optika_kotsalis" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="optika_kotsalis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="optika_kotsalis" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -213,11 +355,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zefarak\Desktop\projects\optika_kotsalis\frontend\static\frontend\assets\images\home-banner" />
+      <recent name="C:\Users\Zefarak\Desktop\projects\optika_kotsalis\frontend\static\frontend\assets\images\landing-page\demo" />
+      <recent name="C:\Users\Zefarak\Desktop\projects\optika_kotsalis\static\tinymce\themes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Zefarak\Desktop\projects\optika_kotsalis\frontend\static\frontend\my_assets" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Zefarak\Desktop\projects\optika_kotsalis\static\tinymce\themes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -247,7 +391,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50416666" side_tool="true" weight="0.32731137" />
@@ -255,8 +398,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49583334" visible="true" weight="0.32624868" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16197917" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49583334" visible="true" weight="0.32624868" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16197917" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -320,57 +463,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/frontend/templates/frontend/include/third-party-code.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/settings_view.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="155" column="74" selection-start-line="155" selection-start-column="74" selection-end-line="155" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/dashboard_actions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalogue/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalogue/product_details.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="144" column="28" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalogue/product_attritubes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/templates/frontend_eng/product_view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="143" column="37" selection-start-line="143" selection-start-column="37" selection-end-line="143" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/templates/frontend/product_view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="175" column="108" selection-start-line="175" selection-start-column="40" selection-end-line="175" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/bloglist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="55" column="73" selection-start-line="55" selection-start-column="73" selection-end-line="55" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/templates/frontend_eng/footer_views/contant_view.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -651,7 +743,28 @@
     <entry file="file://$PROJECT_DIR$/frontend/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="267" lean-forward="true" selection-start-line="267" selection-end-line="267" />
+          <caret line="267" selection-start-line="267" selection-end-line="267" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/static/dashboard/assets/pages/sticky/css/jquery.postitall.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="903" selection-start-line="903" selection-end-line="903" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/static/dashboard/assets/pages/sticky/css/images/icons-white.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/static/dashboard/assets/pages/menu-search/css/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
         </state>
       </provider>
     </entry>
@@ -659,6 +772,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/static/frontend/assets/css/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret column="106669" selection-start-column="106665" selection-end-column="106669" />
+          <folding>
+            <element signature="e#156957#157145#2" expanded="true" />
+            <element signature="e#157770#157958#2" expanded="true" />
+            <element signature="e#221158#221346#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/static/dashboard/bower_components/jstree/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret column="25388" selection-start-column="25388" selection-end-column="25388" />
+          <folding>
+            <element signature="e#2492#2595#2" expanded="true" />
+            <element signature="e#3925#4024#2" expanded="true" />
+            <element signature="e#5888#6153#2" expanded="true" />
+            <element signature="e#6850#7029#1" expanded="true" />
+            <element signature="e#9630#9895#2" expanded="true" />
+            <element signature="e#10054#10217#2" expanded="true" />
+            <element signature="e#12142#12305#2" expanded="true" />
+            <element signature="e#14618#14883#2" expanded="true" />
+            <element signature="e#15054#15217#2" expanded="true" />
+            <element signature="e#17280#17443#2" expanded="true" />
+            <element signature="e#19728#19993#2" expanded="true" />
+            <element signature="e#20164#20327#2" expanded="true" />
+            <element signature="e#22379#22542#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/static/frontend/assets/css/data-table.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="390" column="47" selection-start-line="390" selection-start-column="43" selection-end-line="390" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/static/frontend/assets/css/datatables.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret column="11801" selection-start-column="11801" selection-end-column="11801" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/static/frontend/assets/css/dropzone.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret column="3905" selection-start-column="3905" selection-end-column="3905" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/static/frontend/assets/css/rating.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret column="877" selection-start-column="877" selection-end-column="877" />
         </state>
       </provider>
     </entry>
