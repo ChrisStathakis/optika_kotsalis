@@ -263,3 +263,5 @@ def demo_only_view_restart_session(request):
 def error_404(request, exception):
     data = {}
     return render(request, 'frontend/extra/404.html', data)
+
+

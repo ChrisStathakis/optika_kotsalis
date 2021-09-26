@@ -2,9 +2,9 @@ from django.conf.urls import url
 from django.urls import path ,re_path
 from django.contrib.auth import views as auth_views
 from django.contrib.sitemaps.views import sitemap
+from django.views.generic.base import  RedirectView
 
-
-from .views import HomepageView, BrandListView, CategoryView, ProductView, OfferView, SearchView, BrandDetailView, demo_only_view_restart_session, newsletter_form_view, NewProductsListView, error_404
+from .views import HomepageView, BrandListView, CategoryView, ProductView, OfferView, SearchView, BrandDetailView, demo_only_view_restart_session, newsletter_form_view, NewProductsListView
 from .user_views import UserDashboardView, login_view, register_view, account_activation_sent, activate, update_profile_view, change_password_view, UserProfileOrderListView, add_product_to_wishlist_view, WishlistListView, fast_login_view, remove_from_wishlist_view,  user_personal_data_view, delete_user_view, pdf_user_data_view
 from .cart_checkout_views import CartPageView, add_product_to_cart, delete_product_from_cart, CheckoutView, order_success_url, OrderDetailView, add_product_with_attr_to_cart, add_voucher_to_cart_view, delete_voucher_from_cart_view, decide_what_to_do_with_order_payment
 from .ajax_views import ajax_search_brands, ajax_change_cart_item_qty, ajax_check_voucher, ajax_change_cart_attribute_qty, ajax_add_product_modal, ajax_quick_modal_view, ajax_delete_cart_item, ajax_estimate_costs, ajax_update_cate_shipping_method_view
@@ -12,6 +12,9 @@ from .footer_views import ShippingListView, PaymentMethodListView, order_status_
 
 from .paypall_views import payment_canceled, payment_done, payment_process
 from .sitemaps import StaticViewsSitemap, BrandSitemap, CategorySitemap
+
+
+favicon_view = RedirectView.as_view(url='/static/favicon.ico', permanent=True)
 
 sitemaps = {
     'static': StaticViewsSitemap,
@@ -93,8 +96,10 @@ urlpatterns = [
     path('paypal_/done/', payment_done, name='paypal_done'),
     path('paypal_/canceled/', payment_canceled, name='paypal_canceled'),
 
-    path('sitemap.xml', sitemap, {'sitemaps': sitemaps}, name='django.contrib.sitemaps.views.sitemap')
+    path('sitemap.xml', sitemap, {'sitemaps': sitemaps}, name='django.contrib.sitemaps.views.sitemap'),
 
+# favicon
+    path('favicon.ico', favicon_view),
 
 
 ]
