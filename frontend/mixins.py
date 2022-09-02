@@ -85,7 +85,6 @@ class ListViewMixin(MultipleObjectMixin):
         # create get params for infinite scroll
         get_params = urlencode(self.request.GET)
         infinite_next_point = f'?{get_params}'
-        print(chars_filters_eng)
         context.update(locals())
         return context
 

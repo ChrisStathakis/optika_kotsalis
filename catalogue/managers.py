@@ -44,6 +44,9 @@ class ProductManager(models.Manager):
     def active_for_site(self):
         return self.active()
 
+    def new_products_query(self):
+        return self.active().filter(is_offer=False).order_by('-id')[:60]
+
     def only_info_products(self):
         return self.active().filter(product_class__have_transcations=False, featured_product=True)
 

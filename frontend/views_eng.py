@@ -45,7 +45,7 @@ class NewProductsListView(ListViewMixin, ListView):
         self.initial_queryset = Product.my_query.active_for_site().filter(
             timestamp__gt=datetime.datetime.today() - datetime.timedelta(days=60)
         )
-        qs = Product.filters_data(self.request, self.initial_queryset)
+        qs = Product.filters_data(self.request, Product.my_query.new_products_query())
         if self.request.GET.getlist('attr_name', None):
             qs = Attribute.product_filter_data(self.request, qs)
         if self.request.GET.getlist('char_name', None):
