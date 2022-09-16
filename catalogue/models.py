@@ -229,7 +229,7 @@ class Product(DefaultBasicModel):
 
     def image_tag_tiny(self):
         if self.image:
-            return mark_safe('<img src="%s%s" width="100px" height="100px">' % (MEDIA_URL, self.image))
+            return mark_safe('<img src="%s%s" width="200px" height="200px">' % (MEDIA_URL, self.image))
 
     def show_warehouse_remain(self):
         return self.qty * self.measure_unit

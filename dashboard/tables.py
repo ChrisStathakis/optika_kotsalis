@@ -23,7 +23,7 @@ class ImageColumn(tables.Column):
 
 
 class TableProduct(tables.Table):
-    image = ImageColumn()
+    tag_image_ = tables.TemplateColumn("<a href='{{ record.get_edit_url }}'><img src='{{ record.image.url }}' class='image' width=200 height=200 /> </a>")
     action = tables.TemplateColumn("<a href='{{ record.get_edit_url }}' class='btn btn-primary btn-round'>"
                                    "<i class='fa fa-edit'> </i></a>",
                                    orderable=False, verbose_name='Επεξεργασια'
@@ -37,7 +37,7 @@ class TableProduct(tables.Table):
         model = Product
         template_name = 'django_tables2/bootstrap.html'
         attrs = {'class': 'table  table-hover'}
-        fields = ['id', 'image', 'sku', 'title', 'eng_title', 'brand', 'tag_final_price', 'active', 'action']
+        fields = ['id', 'tag_image_', 'sku', 'title', 'eng_title', 'brand', 'tag_final_price', 'active', 'action']
 
 
 class ProductClassTable(tables.Table):
